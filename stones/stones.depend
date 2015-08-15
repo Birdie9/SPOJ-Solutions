@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1426709861 source:c:\users\jayati\desktop\handouts\stones\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<iomanip>
+	<cstring>
+	<queue>
+	<algorithm>
+

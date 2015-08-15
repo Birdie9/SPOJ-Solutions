@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1439059286 source:c:\users\jayati\desktop\handouts\directiinern01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<math.h>
+

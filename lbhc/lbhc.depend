@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1424629611 source:c:\users\jayati\desktop\handouts\lbhc\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<queue>
+	<map>
+	<algorithm>
+

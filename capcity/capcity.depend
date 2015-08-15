@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1424341878 source:c:\users\jayati\desktop\handouts\capcity\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<vector>
+	<stack>
+	<cstring>
+	<queue>
+

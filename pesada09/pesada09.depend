@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1426762436 source:c:\users\jayati\desktop\handouts\pesada09\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<queue>
+	<algorithm>
+
+1426766618 source:c:\users\jayati\desktop\handouts\pesada09\main.c
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426276346 source:c:\users\jayati\desktop\handouts\hashit2\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<queue>
+	<algorithm>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426738433 source:c:\users\jayati\desktop\handouts\cuckoo-cuckoo hashing\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<queue>
+	<algorithm>
+

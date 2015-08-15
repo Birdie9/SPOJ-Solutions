@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428204499 source:c:\users\jayati\desktop\handouts\trie2\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+
